@@ -1,0 +1,10 @@
+C:\Users\mireu\Desktop\coding\C#\04WebC\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\mireu\Desktop\coding\C#\04WebC\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\mireu\Desktop\coding\C#\04WebC\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\mireu\Desktop\coding\C#\04WebC\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mireu\Desktop\coding\C#\04WebC\bin\Debug\04WebC.exe.config
+C:\Users\mireu\Desktop\coding\C#\04WebC\bin\Debug\04WebC.exe
+C:\Users\mireu\Desktop\coding\C#\04WebC\bin\Debug\04WebC.pdb
+C:\Users\mireu\Desktop\coding\C#\04WebC\obj\Debug\_04WebC.Properties.Resources.resources
+C:\Users\mireu\Desktop\coding\C#\04WebC\obj\Debug\04WebC.exe
+C:\Users\mireu\Desktop\coding\C#\04WebC\obj\Debug\04WebC.pdb
